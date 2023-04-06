@@ -1,3 +1,8 @@
+
+print("Hi")
+
+print("git")
+
 print("hi eveyone")
 
 print("hi")
